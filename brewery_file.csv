@@ -1,0 +1,100 @@
+,Longitude,Latitude,Placemark,Cluster,DrinkingDay
+0,-104.972814,39.769741,Black Shirt Brewing Co,-1,1
+1,-104.932437,39.703027,Bull &amp; Bush,4,6
+2,-104.89134,39.692681,Copper Kettle Brewing Company,4,6
+3,-104.979568,39.768771,Crooked Stave Artisan Beer Project,13,15
+4,-105.043517,39.776111,De Steeg Brewing,7,9
+5,-105.007108,39.758362,Denver Beer Co,11,13
+6,-104.997416,39.75496,Denver ChopHouse &amp; Brewery,11,13
+7,-104.981415,39.76332,Epic Brewing Company,13,15
+8,-104.988457,39.753656,Great Divide Brewing Co,13,15
+9,-105.045073,39.758255,Hogshead Brewery,7,9
+10,-104.982494,39.760606,Our Mutual Friend Brewing,13,15
+11,-105.006671,39.76139,Prost Brewing Company,11,13
+12,-104.999312,39.730616,Renegade Brewing Company,10,12
+13,-104.987665,39.719958,TRVE Brewing Co.,12,14
+14,-104.998373,39.753504,Wynkoop Brewing Company,11,13
+15,-104.991463,39.752273,Jagged Mountain Craft Brewery,-1,1
+16,-104.99848,39.723937,Black Sky Brewery,10,12
+17,-104.898488,39.675659,Comrade Brewing Company,4,6
+18,-104.905964,39.769571,Station 26 Brewing Co.,4,6
+19,-104.967046,39.678709,FERMÃ†NTRA Brewery and Tap Room,-1,1
+20,-104.90565,39.740383,Fiction Beer Company,4,6
+21,-104.98041,39.739778,Lost Highway Brewing Company,-1,1
+22,-104.974929,39.740326,Alpine Dog Brewing Company,-1,1
+23,-105.003318,39.770354,Diebolt Brewing Company,11,13
+24,-104.985753,39.729311,LowDown Brewery + Kitchen,12,14
+25,-104.98703,39.721424,Baere Brewing Company,12,14
+26,-104.987272,39.685475,Grandma's House,9,11
+27,-104.990773,39.679751,Declaration Brewing,9,11
+28,-105.0012,39.699624,Chain Reaction Brewing Company,-1,1
+29,-105.034315,39.786894,Goldspot Brewing Company,7,9
+30,-104.980346,39.76469,Beryl's Beer Co.,13,15
+31,-104.981146,39.761572,Ratio Beerworks,13,15
+32,-104.979739,39.771214,Mockery Brewing,13,15
+33,-104.977123,39.755076,Spangalang Brewery,13,15
+34,-105.058936,39.800845,Odyssey Beerwerks Brewery &amp; Taproom,-1,1
+35,-104.838031,39.748301,Ursula Brewery,1,3
+36,-105.219932,39.756473,Barrels &amp; Bottles Brewery,0,2
+37,-104.987629,39.734585,CO Brew,12,14
+38,-104.980802,39.682588,Platt Park Brewing Company,-1,1
+39,-105.043629,39.77887,Call to Arms Brewing Company,7,9
+40,-104.968122,39.743073,Deep Draft Brewing Co.,-1,1
+41,-105.101066,39.920921,Nighthawk Brewery,5,7
+42,-105.024345,39.747316,Little Machine Beer,-1,1
+43,-105.0020872,39.7702259,Factotum Brewhouse,11,13
+44,-105.0057037,39.7456422,Tivoli Brewing Co. Tap House,11,13
+45,-104.9450804,39.7397522,Cerebral Brewing,-1,1
+46,-105.0399218,39.5405277,Living The Dream Brewing,2,4
+47,-105.0006015,39.7236684,Crazy Mountain Brewing Company,10,12
+48,-104.97919,39.770259,Great Divide Barrel Bar,13,15
+49,-104.812003,39.6527382,Dry Dock Brewing Co - South Dock,1,3
+50,-104.7732643,39.7565349,Dry Dock Brewing Co - North Dock,1,3
+51,-105.0558566,39.9133224,Wonderland Brewing Company,-1,1
+52,-105.1177051,39.6813441,Great Frontier Brewing Company,3,5
+53,-105.0361311,39.6086412,Locavore Beer Works,2,4
+54,-104.987131,39.723729,Banded Oak Brewing,12,14
+55,-105.0203794,39.7510689,Briar Common Brewery + Eatery,8,10
+56,-105.0152332,39.7584222,Zuni Street Brewing Company,8,10
+57,-104.987219,39.693482,Black Project Spontaneous &amp; Wild Ales,9,11
+58,-104.999247,39.7291768,The Intrepid Sojourner Beer Project,10,12
+59,-104.968108,39.803077,Zephyr Brewing Company,-1,1
+60,-104.979081,39.8065653,River North Brewery,-1,1
+61,-104.9840373,39.7628161,Bierstadt Lagerhaus,13,15
+62,-104.9855271,39.759375,10 Barrel Brewing Company Denver,13,15
+63,-104.9769098,39.7735697,Blue Moon Brewing Company,13,15
+64,-104.984571,39.750958,Woods Boss Brewing,13,15
+65,-105.0148912,39.7372426,Strange Craft Beer Company,8,10
+66,-105.0350743,39.740016,Seedstock Brewery,7,9
+67,-105.0073137,39.8181239,Bruz Beers,-1,1
+68,-105.0823201,39.7996433,New Image Restaurant and Brewery,6,8
+69,-105.067704,39.79169,SomePlace Else Brewery,6,8
+70,-104.8064074,39.5939474,Dad &amp; Dudes Breweria,1,3
+71,-104.8777564,39.7527785,Cheluna Brewing Company,4,6
+72,-104.7938622,39.6740868,Peak To Peak Tap &amp; Brew,1,3
+73,-104.789906,39.700827,Launch Pad Brewery,1,3
+74,-104.82268,39.986384,"Big Choice Brewing, LLC",-1,1
+75,-105.0985958,39.9064513,4 Noses Brewing Company,5,7
+76,-105.101066,39.920921,Nighthawk Brewery,5,7
+77,-104.8405461,39.6018852,Lost Highway Brewing Company,1,3
+78,-105.0534522,39.753134,Joyride Brewing Company,-1,1
+79,-104.9880198,39.6541046,The Brew on Broadway,-1,1
+80,-105.2177099,39.7559393,Coors Brewery Tour,0,2
+81,-105.2236859,39.7546771,Golden City Brewery,0,2
+82,-105.2351159,39.7686284,Cannonball Creek Brewing Company,0,2
+83,-105.2241651,39.7581344,Mountain Toad Brewing,0,2
+84,-105.233144,39.779977,Holidaily Brewing Company,0,2
+85,-105.185966,39.77959,New Terrain Brewing Company,0,2
+86,-105.1363407,39.7037623,Ironworks Brewery &amp; Pub,3,5
+87,-105.0824046,39.6981306,CAUTION: Brewing Company,-1,1
+88,-105.0709687,39.7404587,WestFax Brewing Company,-1,1
+89,-105.1136839,39.6699449,Green Mountain Beer Company,3,5
+90,-105.0233408,39.5937209,Breckenridge Brewery,2,4
+91,-105.0361311,39.6086412,Locavore Beer Works,2,4
+92,-104.892868,39.562658,Lone Tree Brewing Company,-1,1
+93,-104.940657,39.90388,Beer By Design Brewery,-1,1
+94,-105.0652385,39.8586703,Kokopelli Beer Company,-1,1
+95,-105.0830221,39.8932469,Westminster Brewing Co.,5,7
+96,-105.081894,39.77586,Brewery Rickoli,6,8
+97,-105.074179,39.769658,Colorado Plus Brew Pub and Taphouse,6,8
+98,-104.9771225,39.8293691,J.Moe's Brewing Company,-1,1
