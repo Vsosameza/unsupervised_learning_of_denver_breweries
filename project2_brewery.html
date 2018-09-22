@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Beer Visualization</title>
+
+    <!--D3 cdn-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.12.2/d3.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
+
+    <!-- Leaflet cdn -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css"
+    integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ=="
+    crossorigin=""/>
+   <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"
+    integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log=="
+    crossorigin=""></script>
+<!-- Icons -->
+    <link rel="stylesheet" type="text/css" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="leaflet.extra-markers.min.css">
+    <!-- Bootstrap -->
+    <!-- Latest compiled and minified CSS & JS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.css">
+
+    <link rel="stylesheet" media="screen" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery.js"></script>
+    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
+    
+    <script src="papaparse.min.js"></script>
+    <script type="text/javascript" src="project2_brewery.js"></script>
+
+    <!-- my CSS -->
+    <link rel="stylesheet" type="text/css" href="project2 .css">
+
+
+</head>
+<body>
+  <script src="leaflet.extra-markers.min.js"></script>
+    <!-- header -->
+    <div class="jumbotron">
+        <div class="container">
+            <h1>How long will it take to see Denver's breweries?</h1>
+            <p>The layers of the map below show data for 100 of Denver's top breweries. All of which can be visited in less time
+                than you would think.  
+            </p>
+        </div>
+    </div>
+
+    </div class="container-fluid">
+        <!-- map -->
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <div style="text-align: center"></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="map-id"></div>
+    
+    <!-- my JS -->
+    <script type="text/javascript" src="project2_brew.js"></script>
+    
+</body>
+
+</html>
